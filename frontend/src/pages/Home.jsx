@@ -10,7 +10,7 @@ const Home = () => {
                     <p class="mb-8 leading-relaxed">This CRM helps you manage your leads</p>
                     <div class="flex justify-center">
                         <button class="inline-flex text-white bg-indigo-500 border-0 py-2 px-6 focus:outline-none hover:bg-indigo-600 rounded text-lg">Button</button>
-                        <button class="yzf">Button</button>
+
    
                     </div>
                     </div>
